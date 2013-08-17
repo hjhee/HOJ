@@ -1,0 +1,24 @@
+6
+push 100
+push 3
+push 2
+max
+pop
+min
+2
+pop
+max
+12
+max
+push 100
+max
+push 3
+min
+pop
+push 2
+pop
+min
+pop
+min
+max
+0
